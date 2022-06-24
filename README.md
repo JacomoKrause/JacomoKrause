@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust and C++**
 
-- 💬 Ask me about **Computer Vision, KI**
+- 💬 Ask me about **Computer Vision, KI (especially cooperative multiagent settings)**
 
 - ⚡ Fun fact **I am quite social**
 
